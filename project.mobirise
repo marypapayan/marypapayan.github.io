@@ -199,7 +199,8 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
+              "padding": "2rem 0",
+              "text-align": "center"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -252,6 +253,9 @@
               "color": "#767676"
             },
             "B": {
+              "color": "#000000"
+            },
+            "P": {
               "color": "#000000"
             }
           },
